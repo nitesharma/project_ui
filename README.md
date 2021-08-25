@@ -1,6 +1,11 @@
 # project_ui
 
-A new Flutter project.
+Simple Ui design.
+
+## Screenshot
+
+![Screenshot_20210825-160250_project_ui (1)](https://user-images.githubusercontent.com/51874624/130775667-01824589-ffcb-4ef9-8645-c9edae6f15b5.jpg)
+
 
 ## Getting Started
 
